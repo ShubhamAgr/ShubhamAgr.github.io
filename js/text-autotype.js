@@ -1,6 +1,6 @@
 var i = 1;
 var j= -1;
-var list = ['Skills: Android, Node.js, Machine Learing and NLP'];
+var list = ['Skills: Android, Node.js, Machine Learning and NLP'];
 var a=list[0];
 var len = list.length;
 var num = 0;
